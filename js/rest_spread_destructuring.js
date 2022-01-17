@@ -26,6 +26,7 @@ console.log('Destructuring');
 const arr = [1, null, 3, 5, 8];
 // const [a, b, ...c] = arr;
 // console.log(a, b, c);
+const test = true;
 
 const [a, , ...c] = arr;
 console.log(a, c);
@@ -35,7 +36,7 @@ const address = {
   city: 'Samara',
   street: 'D.Donskogo',
   concat: function() {
-    return `${this.country}, ${this.city}, ${this.street}`;
+    return `Hi! ${this.country}, ${this.city}, ${this.street}`;
   }
 };
 

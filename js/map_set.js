@@ -1,5 +1,5 @@
 // Map
-const map = new Map(
+const map = new Map(//массивы обозначающие ключ - значение
   [
     [1, 'a'],
   ]
@@ -29,6 +29,6 @@ console.log(set.add(13));
 // set.delete(1);
 console.log(set);
 
-console.log(set.keys());
-console.log(set.entries());
-console.log(set.values());
+console.log('set.keys(): ', set.keys());
+console.log('set.values(): ', set.values());
+console.log('set.entries(): ', set.entries());
