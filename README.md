@@ -1,4 +1,6 @@
 Отсановился:
+  Урок 7. JavaScript. Все о ES6 Классах (+ Практическое Применение)
+    https://youtu.be/uLY9GXGMXaA?t=577
   learn.javascript.ru
     https://learn.javascript.ru/regular-expressions
   JavaScript Основы для Начинающих - Полный Курс за 6 часов [2020]
@@ -19,3 +21,5 @@
     https://youtu.be/vIZs5tH-HGQ
   Урок 5. JavaScript. Promise. Что это, как работает (+ пример)
     https://youtu.be/1idOY3C1gYU
+  Урок 6. JavaScript. Объекты с Object.create. Что такое getters, setters
+    https://youtu.be/cS6nTVNzOPw
