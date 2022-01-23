@@ -1,6 +1,7 @@
 Отсановился:
-  Урок 7. JavaScript. Все о ES6 Классах (+ Практическое Применение)
-    https://youtu.be/uLY9GXGMXaA?t=577
+  Урок 9. JavaScript. Proxy. Объекты, функции, классы. Часть 1
+    https://youtu.be/np08WdS9OXg?t=686
+  
   learn.javascript.ru
     https://learn.javascript.ru/regular-expressions
   JavaScript Основы для Начинающих - Полный Курс за 6 часов [2020]
@@ -23,3 +24,7 @@
     https://youtu.be/1idOY3C1gYU
   Урок 6. JavaScript. Объекты с Object.create. Что такое getters, setters
     https://youtu.be/cS6nTVNzOPw
+  Урок 7. JavaScript. Все о ES6 Классах (+ Практическое Применение)
+    https://youtu.be/uLY9GXGMXaA
+  Урок 8. JavaScript. Как работает Async, Await. Работа с сервером c fetch
+    https://youtu.be/SHiUyM_fFME
