@@ -1,7 +1,6 @@
-Отсановился:
-  Урок 9. JavaScript. Proxy. Объекты, функции, классы. Часть 1
-    https://youtu.be/np08WdS9OXg?t=686
-  
+Отсановился:  
+  Урок 10. JavaScript. Proxy. Примеры. Часть 2
+    https://youtu.be/mSbyhHfxs04?t=46
   learn.javascript.ru
     https://learn.javascript.ru/regular-expressions
   JavaScript Основы для Начинающих - Полный Курс за 6 часов [2020]
@@ -28,3 +27,5 @@
     https://youtu.be/uLY9GXGMXaA
   Урок 8. JavaScript. Как работает Async, Await. Работа с сервером c fetch
     https://youtu.be/SHiUyM_fFME
+  Урок 9. JavaScript. Proxy. Объекты, функции, классы. Часть 1
+    https://youtu.be/np08WdS9OXg

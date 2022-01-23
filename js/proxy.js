@@ -41,15 +41,24 @@
 
 
 
+// Object
 const person = {
   name: 'Artem',
   age: 32,
   job: 'web frontend'
 };
 
-const op = new Proxy(person, {
+const objProxy = new Proxy(person, {
   get(target, prop) {
     console.log('Getting prop: ', prop);
+
+    if (!(prop in target)) {
+      return prop
+        .split('_')
+        .map(part => (target[part]))
+        .join(', ');
+    } 
+
     return target[prop];
   },
   set(target, prop, val) {
@@ -72,5 +81,45 @@ const op = new Proxy(person, {
 
 
 
-// Functions
-const log = text => `Log: ${text}`;
+// Function
+// const funcLog = text => `Log: ${text}`;
+
+// const funcLogProxy = new Proxy(funcLog, {
+//   apply(target, context, args) {
+//     console.log('Calling fn...');
+//     return target.apply(context, args).toUpperCase();
+//   }
+// });
+
+// funcLogProxy('TEST');
+
+
+
+// class Person {
+//   constructor(props) {
+//     this.name = props.name;
+//     this.age = props.age;
+//   }
+// }
+
+// const PersonProxy = new Proxy(Person, {
+//   // Обработчики:
+//   // Ловушка:
+//   construct(target, props) {
+//     console.log('Construct...');
+    
+//     return new Proxy(new target(props), {
+//       get(tar, prop) {
+//         console.log(`Getting prop "${prop}"`);
+//         return tar[prop];
+//       }
+//     });
+//   }
+// });
+
+// const personProxy = new PersonProxy({
+//   name: 'Artem',
+//   age: 32,
+// });
+
+// console.log(personProxy);
