@@ -1,6 +1,6 @@
-Отсановился:  
-  Урок 10. JavaScript. Proxy. Примеры. Часть 2
-    https://youtu.be/mSbyhHfxs04?t=46
+Отсановился: 
+  Урок 11. JavaScript. Генераторы. Symbol iterator, for of
+    
   learn.javascript.ru
     https://learn.javascript.ru/regular-expressions
   JavaScript Основы для Начинающих - Полный Курс за 6 часов [2020]
@@ -29,3 +29,6 @@
     https://youtu.be/SHiUyM_fFME
   Урок 9. JavaScript. Proxy. Объекты, функции, классы. Часть 1
     https://youtu.be/np08WdS9OXg
+  Урок 10. JavaScript. Proxy. Примеры. Часть 2
+    https://youtu.be/mSbyhHfxs04
+  
