@@ -1,6 +1,6 @@
 Отсановился: 
-  Урок 11. JavaScript. Генераторы. Symbol iterator, for of
-    
+  Урок 12. JavaScript. Методы массивов (forEach, map, filter, reduce, find, findIndex). Js Массивы.
+    https://www.youtube.com/watch?v=nEabP9CYCAQ
   learn.javascript.ru
     https://learn.javascript.ru/regular-expressions
   JavaScript Основы для Начинающих - Полный Курс за 6 часов [2020]
@@ -31,4 +31,6 @@
     https://youtu.be/np08WdS9OXg
   Урок 10. JavaScript. Proxy. Примеры. Часть 2
     https://youtu.be/mSbyhHfxs04
+  Урок 11. JavaScript. Генераторы. Symbol iterator, for of
+    https://youtu.be/7wtbNNiOh30
   
