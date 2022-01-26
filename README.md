@@ -1,6 +1,6 @@
 Отсановился: 
-  Урок 12. JavaScript. Методы массивов (forEach, map, filter, reduce, find, findIndex). Js Массивы.
-    https://www.youtube.com/watch?v=nEabP9CYCAQ
+  Урок 13. JavaScript. Все о Map, Set, WeakMap, WeakSet с примерами
+    https://www.youtube.com/watch?v=mbcP3Oc0PjU
   learn.javascript.ru
     https://learn.javascript.ru/regular-expressions
   JavaScript Основы для Начинающих - Полный Курс за 6 часов [2020]
@@ -33,4 +33,6 @@
     https://youtu.be/mSbyhHfxs04
   Урок 11. JavaScript. Генераторы. Symbol iterator, for of
     https://youtu.be/7wtbNNiOh30
+  Урок 12. JavaScript. Методы массивов (forEach, map, filter, reduce, find, findIndex). Js Массивы.
+    https://www.youtube.com/watch?v=nEabP9CYCAQ
   
