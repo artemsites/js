@@ -1,15 +1,3 @@
-const delay = ms => {
-  return new Promise((resolve, reject) => {
-    setTimeout(() => {
-      resolve();
-    }, ms);
-  });
-}
-
-delay(1000).then(() => { console.log('Delay function'); });
-
-
-
 const apiUrl = 'https://jsonplaceholder.typicode.com/todos/';
 
 
@@ -36,13 +24,13 @@ const apiUrl = 'https://jsonplaceholder.typicode.com/todos/';
 
 // То же что и fetchTodo() только через async await вместо .then()
 // Равносильно обработке Promise
-async function fetchTodoAsync() {
+async function fetchTodoAsync(url) {
   console.log('Fetch todo started...');
   
   try {
 
     await delay(1000);//await оператор асинхронной функции для того чтобы не переходить к следующей строке пока не будет выполнена строка с оператором await...
-    const response = await fetch(apiUrl);  
+    const response = await fetch(url);  
     const data = response.json();
     return data;
 
@@ -53,6 +41,6 @@ async function fetchTodoAsync() {
   } finally {}
 }
 
-fetchTodoAsync().then(data=>{
+fetchTodoAsync(apiUrl).then(data=>{
   console.log(data);
 });

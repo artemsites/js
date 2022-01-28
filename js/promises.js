@@ -1,3 +1,15 @@
+// const delay = ms => {
+//   return new Promise((resolve, reject) => {
+//     setTimeout(() => {
+//       resolve();
+//     }, ms);
+//   });
+// }
+
+// delay(1000).then(() => { console.log('Delay function'); });
+
+
+
 // const promise = new Promise((resolve, reject) => {
 //   setTimeout(()=>{
 //     resolve('Success async operation!');

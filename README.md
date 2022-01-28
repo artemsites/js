@@ -1,5 +1,10 @@
-Отсановился: 
-  learn.javascript.ru
+Отсановился:
+  Урок 15. JavaScript. Все о Spread и Rest
+    https://www.youtube.com/watch?v=SGeQ-U0G7dE
+  https://learn.javascript.ru/modifying-document
+  https://learn.javascript.ru/dom-navigation
+
+  learn.javascript.ru:
     https://learn.javascript.ru/regular-expressions
   JavaScript Основы для Начинающих - Полный Курс за 6 часов [2020]
     https://youtu.be/Bluxbh9CaQ0?t=5495
@@ -35,4 +40,6 @@
     https://www.youtube.com/watch?v=nEabP9CYCAQ
   Урок 13. JavaScript. Все о Map, Set, WeakMap, WeakSet с примерами
     https://www.youtube.com/watch?v=mbcP3Oc0PjU
+  Урок 14. JavaScript. Запросы на сервер. Fetch, XMLHttpRequest (XHR), Ajax
+    https://www.youtube.com/watch?v=eKCD9djJQKc
   
