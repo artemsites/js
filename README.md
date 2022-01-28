@@ -12,7 +12,7 @@
 
 
 
-#### Посмотрел и повторил: 
+#### Посмотрел, повторил, усвоил: 
     JavaScript ES6 - Полный курс за 2 часа [2020]
       https://youtu.be/Ti2Q4sQkNdU
     Урок 1. JavaScript. Что такое prototype. JavaScript Prototype (English Subs)
