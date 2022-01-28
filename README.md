@@ -1,6 +1,7 @@
-Отсановился:
+Закладки:
   Урок 15. JavaScript. Все о Spread и Rest
     https://www.youtube.com/watch?v=SGeQ-U0G7dE
+    
   https://learn.javascript.ru/modifying-document
   https://learn.javascript.ru/dom-navigation
 
@@ -11,7 +12,7 @@
 
 
 
-Отсмотрел и повторил:
+Посмотрел и повторил:
   JavaScript ES6 - Полный курс за 2 часа [2020]
     https://youtu.be/Ti2Q4sQkNdU
   Урок 1. JavaScript. Что такое prototype. JavaScript Prototype (English Subs)
