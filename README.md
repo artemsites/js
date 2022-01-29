@@ -1,7 +1,6 @@
 #### Закладки: 
-    Урок 15. JavaScript. Все о Spread и Rest
-      https://www.youtube.com/watch?v=SGeQ-U0G7dE
-
+    Урок 16. JavaScript. Все о Деструктуризации в JS
+      https://www.youtube.com/watch?v=wWYokY0Pt2M
     https://learn.javascript.ru/modifying-document
     https://learn.javascript.ru/dom-navigation
 
@@ -43,4 +42,6 @@
       https://www.youtube.com/watch?v=mbcP3Oc0PjU
     Урок 14. JavaScript. Запросы на сервер. Fetch, XMLHttpRequest (XHR), Ajax
       https://www.youtube.com/watch?v=eKCD9djJQKc
+    Урок 15. JavaScript. Все о Spread и Rest
+      https://www.youtube.com/watch?v=SGeQ-U0G7dE
   
