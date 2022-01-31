@@ -1,6 +1,4 @@
-#### Закладки: 
-  Как дебажить JavaScript. Chrome DevTools
-    https://www.youtube.com/watch?v=20UsCQzUOIE
+#### Закладки теория: 
   SOLID Принципы в JavaScript
     https://www.youtube.com/watch?v=xq13wiqvcTc
   Композиция или Наследование в JavaScript?
@@ -15,8 +13,37 @@
 
   learn.javascript.ru:
     https://learn.javascript.ru/regular-expressions
+
   JavaScript Основы для Начинающих - Полный Курс за 6 часов [2020]
     https://youtu.be/Bluxbh9CaQ0?t=5495
+
+
+
+#### Закладки практика:
+  Как создать свой bind
+    https://youtu.be/fJqYa3BuwaU
+  Proxy. Примеры
+    https://youtu.be/mSbyhHfxs04
+  Prototype, This, Классы, Контекст, Наследование
+    https://youtu.be/cTlxzxsFbDQ
+  TDD в JavaScript
+    https://youtu.be/SQMCtWnCxEA
+  Модальное окно на ЧИСТОМ JS 1
+    https://youtu.be/FX2fiUvrYP4
+  Модальное окно на ЧИСТОМ JS 2
+    https://youtu.be/BmxD74C3rCs
+  Модальное окно на ЧИСТОМ JS 3
+    https://youtu.be/GVGq0iy8GQE
+  Загрузка файлов на CSS и JS
+    https://youtu.be/5vx2PVClSVU
+  Конструктор сайтов на чистом JavaScript
+    https://youtu.be/0ViiJ8qTCFM
+  Приложение на чистом JS
+    https://youtu.be/KS2ngnRAKlg
+  Select с нуля
+    https://youtu.be/35va4OY7Y1c
+  Canvas графики для Telegram | Мастер-класс
+    https://youtu.be/yz09oVHt3PY
 
 
 
@@ -57,4 +84,5 @@
     https://www.youtube.com/watch?v=wWYokY0Pt2M
   Урок 17. JavaScript. Все о LocalStorage
     https://www.youtube.com/watch?v=3-bZ7gLVSzo
-  
+  Как дебажить JavaScript. Chrome DevTools
+    https://www.youtube.com/watch?v=20UsCQzUOIE
