@@ -1,11 +1,15 @@
 // Set - устанавливает только уникальные значения
 // const set = new Set([ 1,1,2,2,3,5,8,8,5,3,2,1 ]);
-// console.log(set);
-// console.log(set.size);
-// console.log(set.add(13));
+// console.log(set);//Set(5) { 1, 2, 3, 5, 8 }
+// console.log(set.size);//5
+// console.log(set.add(13));//Set(6) { 1, 2, 3, 5, 8, 13 }
 // // set.clear();
 // // set.delete(1);
-// console.log(set);
+// console.log(set);//Set(6) { 1, 2, 3, 5, 8, 13 }
+
+// // Array из Set
+// const arrFromSet = Array.from(set);
+// console.log(arrFromSet);//[ 1, 2, 3, 5, 8, 13 ]
 
 // console.log('set.keys(): ', set.keys());
 // console.log('set.values(): ', set.values());

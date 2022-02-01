@@ -1,10 +1,8 @@
 #### Закладки теория: 
-  Композиция или Наследование в JavaScript?
-    https://www.youtube.com/watch?v=v6AVfIupNB8
+  Структуры данных в JavaScript. Пишем свой LinkedList
+    https://youtu.be/dFwNSyVC_5Y?t=1222
   JavaScript Паттерны. Шаблоны проектирования. 17 Примеров
     https://www.youtube.com/watch?v=YJVj4XNASDk
-  Структуры данных в JavaScript. Пишем свой LinkedList
-    https://www.youtube.com/watch?v=dFwNSyVC_5Y
   PWA с нуля. Как работают Service Workers
     https://youtu.be/ifroMW_F4Sc
 
@@ -96,3 +94,5 @@
     https://www.youtube.com/watch?v=20UsCQzUOIE
   SOLID Принципы в JavaScript
     https://youtu.be/xq13wiqvcTc
+  Композиция или Наследование в JavaScript?
+    https://www.youtube.com/watch?v=v6AVfIupNB8

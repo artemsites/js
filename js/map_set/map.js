@@ -1,14 +1,15 @@
 // Map
-// const map = new Map(//массивы обозначающие ключ - значение
-//   [
-//     [1, 'a'],
-//   ]
-// );
+const map = new Map(//массивы обозначающие ключ - значение
+  [
+    [1, 'a'],
+  ]
+);
 
 // console.log( map.get(1) );
 // map.set(2, 'b');
 // map.set(3, 'c').set(4, 'd');
 // console.log(map);
+// Очистка Map
 // map.clear();
 // console.log( map.has(21) );
 // map.delete(1); 
@@ -26,7 +27,7 @@ const obj = {
   job: 'frontend',
 };
 
-const entries = [//что-то наподобии ассоциативного массива в PHP
+const entries = [//что-то наподобии объекта
   ['name', 'Artem'],
   ['age', 32],
   ['job', 'frontend'],
