@@ -1,6 +1,4 @@
 #### Закладки теория: 
-  SOLID Принципы в JavaScript
-    https://youtu.be/xq13wiqvcTc?t=876
   Композиция или Наследование в JavaScript?
     https://www.youtube.com/watch?v=v6AVfIupNB8
   JavaScript Паттерны. Шаблоны проектирования. 17 Примеров
@@ -86,3 +84,5 @@
     https://www.youtube.com/watch?v=3-bZ7gLVSzo
   Как дебажить JavaScript. Chrome DevTools
     https://www.youtube.com/watch?v=20UsCQzUOIE
+  SOLID Принципы в JavaScript
+    https://youtu.be/xq13wiqvcTc
