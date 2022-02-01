@@ -5,6 +5,8 @@
     https://www.youtube.com/watch?v=YJVj4XNASDk
   Структуры данных в JavaScript. Пишем свой LinkedList
     https://www.youtube.com/watch?v=dFwNSyVC_5Y
+  PWA с нуля. Как работают Service Workers
+    https://youtu.be/ifroMW_F4Sc
 
   https://learn.javascript.ru/modifying-document
   https://learn.javascript.ru/dom-navigation
@@ -18,6 +20,14 @@
 
 
 #### Закладки практика:
+  Как ускорить JavaScript разработку
+    https://youtu.be/l-zB8k582k8
+  TDD в JavaScript. Создаем свой класс Promise
+    https://www.youtube.com/watch?v=SQMCtWnCxEA
+  Jest. Unit Тестирование в JavaScript
+    https://youtu.be/IEDe8jl5efU
+  Lodash - функциональное применение
+    https://youtu.be/_ucQ8i-MOdM
   Как создать свой bind
     https://youtu.be/fJqYa3BuwaU
   Proxy. Примеры
