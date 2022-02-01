@@ -1,6 +1,6 @@
 #### Закладки теория: 
   SOLID Принципы в JavaScript
-    https://www.youtube.com/watch?v=xq13wiqvcTc
+    https://youtu.be/xq13wiqvcTc?t=876
   Композиция или Наследование в JavaScript?
     https://www.youtube.com/watch?v=v6AVfIupNB8
   JavaScript Паттерны. Шаблоны проектирования. 17 Примеров
