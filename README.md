@@ -14,8 +14,9 @@
 
 
 #### Закладки практика:
-  PWA с нуля. Как работают Service Workers (https://github.com/vladilenm/pwa-intro)
+  PWA с нуля. Как работают Service Workers
     https://youtu.be/ifroMW_F4Sc
+      repo: pwa-intro
   Как ускорить JavaScript разработку
     https://youtu.be/l-zB8k582k8
   TDD в JavaScript
