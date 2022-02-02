@@ -1,10 +1,6 @@
 #### Закладки теория: 
-  Структуры данных в JavaScript. Пишем свой LinkedList
-    https://youtu.be/dFwNSyVC_5Y?t=1222
   JavaScript Паттерны. Шаблоны проектирования. 17 Примеров
     https://www.youtube.com/watch?v=YJVj4XNASDk
-  PWA с нуля. Как работают Service Workers
-    https://youtu.be/ifroMW_F4Sc
 
   https://learn.javascript.ru/modifying-document
   https://learn.javascript.ru/dom-navigation
@@ -18,10 +14,12 @@
 
 
 #### Закладки практика:
+  PWA с нуля. Как работают Service Workers
+    https://youtu.be/ifroMW_F4Sc
   Как ускорить JavaScript разработку
     https://youtu.be/l-zB8k582k8
-  TDD в JavaScript. Создаем свой класс Promise
-    https://www.youtube.com/watch?v=SQMCtWnCxEA
+  TDD в JavaScript
+    https://youtu.be/SQMCtWnCxEA
   Jest. Unit Тестирование в JavaScript
     https://youtu.be/IEDe8jl5efU
   Lodash - функциональное применение
@@ -32,8 +30,6 @@
     https://youtu.be/mSbyhHfxs04
   Prototype, This, Классы, Контекст, Наследование
     https://youtu.be/cTlxzxsFbDQ
-  TDD в JavaScript
-    https://youtu.be/SQMCtWnCxEA
   Модальное окно на ЧИСТОМ JS 1
     https://youtu.be/FX2fiUvrYP4
   Модальное окно на ЧИСТОМ JS 2
@@ -96,3 +92,5 @@
     https://youtu.be/xq13wiqvcTc
   Композиция или Наследование в JavaScript?
     https://www.youtube.com/watch?v=v6AVfIupNB8
+  Структуры данных в JavaScript. Пишем свой LinkedList
+    https://youtu.be/dFwNSyVC_5Y
