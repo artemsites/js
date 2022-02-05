@@ -1,3 +1,12 @@
+#### Roadmap от Владилена: 
+  https://vladilen.notion.site/Roadmap-YouTube-0b917095c1ec424e9574c2ede36efab9
+    Разделы:
+      * JavaScript
+      * Дополнительно
+      * TypeScript
+
+
+
 #### Закладки теория: 
   JavaScript Паттерны. Шаблоны проектирования. 17 Примеров
     https://www.youtube.com/watch?v=YJVj4XNASDk
@@ -13,12 +22,7 @@
 
 
 
-#### Закладки практика:
-  PWA с нуля. Как работают Service Workers
-    https://youtu.be/ifroMW_F4Sc
-      repo: pwa-intro
-  Как ускорить JavaScript разработку
-    https://youtu.be/l-zB8k582k8
+#### Закладки практика: 
   TDD в JavaScript
     https://youtu.be/SQMCtWnCxEA
   Jest. Unit Тестирование в JavaScript
@@ -95,3 +99,8 @@
     https://www.youtube.com/watch?v=v6AVfIupNB8
   Структуры данных в JavaScript. Пишем свой LinkedList
     https://youtu.be/dFwNSyVC_5Y
+  PWA с нуля. Как работают Service Workers
+    https://youtu.be/ifroMW_F4Sc
+      repo: https://github.com/artemijeka/pwa-intro
+  Как ускорить JavaScript разработку с Quokka
+    https://youtu.be/l-zB8k582k8
