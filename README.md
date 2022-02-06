@@ -23,10 +23,10 @@
 
 
 #### Закладки практика: 
+  Jest. Unit Тестирование в JavaScript
+    https://youtu.be/IEDe8jl5efU?t=4186
   TDD в JavaScript
     https://youtu.be/SQMCtWnCxEA
-  Jest. Unit Тестирование в JavaScript
-    https://youtu.be/IEDe8jl5efU
   Lodash - функциональное применение
     https://youtu.be/_ucQ8i-MOdM
   Как создать свой bind
