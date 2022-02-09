@@ -1,4 +1,7 @@
 const { Ajax } = module.require('./async-code');
+const axios = require('axios');
+
+jest.mock('axios');
 
 describe('Ajax echo', () => {
   test('Должен вернуть значение асинхронно:', async () => {
@@ -27,4 +30,32 @@ describe('Ajax echo', () => {
       expect(error.message).toBe('Error echo data, class Ajax');//8 строка тестируемого файла
     }
   });
+});
+
+
+
+describe('Ajax GET', () => {
+
+  let response;
+  let todos;
+
+  beforeEach(()=>{
+    todos = [
+      {id:1, title:'Todo 1', completed:false}
+    ];
+    response = {
+      data: {
+        todos
+      }
+    };
+  });
+
+  test('должен вернуть данные с jsonplaceholder/...', () => {
+    axios.get.mockReturnValue(response);
+
+    return Ajax.get().then(data=>{
+      expect(data.todos).toEqual(todos);
+    });
+  });
+
 });

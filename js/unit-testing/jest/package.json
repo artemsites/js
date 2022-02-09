@@ -16,5 +16,8 @@
     "include": [
       "jest"
     ]
+  },
+  "dependencies": {
+    "axios": "^0.25.0"
   }
 }

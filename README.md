@@ -1,3 +1,10 @@
+#### Не доделал:
+  Загрузка файлов на CSS и JS
+    https://youtu.be/5vx2PVClSVU?t=330
+      [uploader](https://github.com/artemijeka/uploader)
+
+
+
 #### Roadmap от Владилена: 
   https://vladilen.notion.site/Roadmap-YouTube-0b917095c1ec424e9574c2ede36efab9
     Разделы:
@@ -23,8 +30,6 @@
 
 
 #### Закладки практика: 
-  Jest. Unit Тестирование в JavaScript
-    https://youtu.be/IEDe8jl5efU?t=4186
   TDD в JavaScript
     https://youtu.be/SQMCtWnCxEA
   Lodash - функциональное применение
@@ -41,15 +46,14 @@
     https://youtu.be/BmxD74C3rCs
   Модальное окно на ЧИСТОМ JS 3
     https://youtu.be/GVGq0iy8GQE
-  Загрузка файлов на CSS и JS
-    https://youtu.be/5vx2PVClSVU
+
   Конструктор сайтов на чистом JavaScript
     https://youtu.be/0ViiJ8qTCFM
   Приложение на чистом JS
     https://youtu.be/KS2ngnRAKlg
   Select с нуля
     https://youtu.be/35va4OY7Y1c
-  Canvas графики для Telegram | Мастер-класс
+  Canvas графики для | Мастер-класс
     https://youtu.be/yz09oVHt3PY
 
 
@@ -104,3 +108,5 @@
       repo: https://github.com/artemijeka/pwa-intro
   Как ускорить JavaScript разработку с Quokka
     https://youtu.be/l-zB8k582k8
+  Jest. Unit Тестирование в JavaScript
+    https://youtu.be/IEDe8jl5efU
