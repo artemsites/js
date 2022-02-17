@@ -1,6 +1,6 @@
 #### Не доделал:
   Загрузка файлов на CSS и JS
-    https://youtu.be/5vx2PVClSVU?t=330
+    https://youtu.be/5vx2PVClSVU?t=1852
       [uploader](https://github.com/artemijeka/uploader)
 
 
@@ -46,7 +46,6 @@
     https://youtu.be/BmxD74C3rCs
   Модальное окно на ЧИСТОМ JS 3
     https://youtu.be/GVGq0iy8GQE
-
   Конструктор сайтов на чистом JavaScript
     https://youtu.be/0ViiJ8qTCFM
   Приложение на чистом JS
