@@ -1,7 +1,8 @@
 #### Не доделал:
   Загрузка файлов на CSS и JS
-    https://youtu.be/5vx2PVClSVU?t=4664
-      [uploader](https://github.com/artemijeka/uploader)
+    Досмотрел но не доделал
+      https://youtu.be/5vx2PVClSVU
+        [uploader](https://github.com/artemijeka/uploader)
 
 
 
