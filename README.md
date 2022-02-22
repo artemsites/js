@@ -1,6 +1,6 @@
 #### Не доделал:
   Webpack - Полный курс за 3 часа [2020]
-    https://www.youtube.com/watch?v=eSaF8NXeNsA
+    https://youtu.be/eSaF8NXeNsA?t=3872
 
   Загрузка файлов на CSS и JS
     Досмотрел но не доделал
