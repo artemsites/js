@@ -13,7 +13,7 @@
 //   city: 'Samara',
 //   country: 'Russia'
 // };
-// const {name, age, ...otherProps} = obj;//other это Rest который создаёт объект с остаточными свойствами объекта
+// const {name, age, ...otherProps} = obj;//...other это Rest оператор который создаёт объект с остаточными свойствами объекта
 // console.log(name, age, otherProps);//Artem 32 { city: "Samara", country: "Russia" }
 
 
