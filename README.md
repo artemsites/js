@@ -19,22 +19,11 @@
 
 
 
-#### Закладки теория: 
+#### Закладки:   
   JavaScript Паттерны. Шаблоны проектирования. 17 Примеров
     https://www.youtube.com/watch?v=YJVj4XNASDk
-
-  https://learn.javascript.ru/modifying-document
-  https://learn.javascript.ru/dom-navigation
-
-  learn.javascript.ru:
-    https://learn.javascript.ru/regular-expressions
-
   JavaScript Основы для Начинающих - Полный Курс за 6 часов [2020]
     https://youtu.be/Bluxbh9CaQ0?t=5495
-
-
-
-#### Закладки практика: 
   TDD в JavaScript
     https://youtu.be/SQMCtWnCxEA
   Lodash - функциональное применение
