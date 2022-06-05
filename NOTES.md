@@ -19,11 +19,13 @@
 
 
 
-#### Закладки:   
+#### Закладки: 
+  Регулярные выражения
+    https://learn.javascript.ru/regular-expressions
   JavaScript Паттерны. Шаблоны проектирования. 17 Примеров
     https://www.youtube.com/watch?v=YJVj4XNASDk
-  JavaScript Основы для Начинающих - Полный Курс за 6 часов [2020]
-    https://youtu.be/Bluxbh9CaQ0?t=5495
+  Canvas графики для | Мастер-класс
+    https://youtu.be/yz09oVHt3PY
   TDD в JavaScript
     https://youtu.be/SQMCtWnCxEA
   Lodash - функциональное применение
@@ -46,8 +48,8 @@
     https://youtu.be/KS2ngnRAKlg
   Select с нуля
     https://youtu.be/35va4OY7Y1c
-  Canvas графики для | Мастер-класс
-    https://youtu.be/yz09oVHt3PY
+  JavaScript Основы для Начинающих - Полный Курс за 6 часов [2020]
+    https://youtu.be/Bluxbh9CaQ0?t=5495
 
 
 
