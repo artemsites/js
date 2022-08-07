@@ -1,19 +1,7 @@
 {
 	"folders": [
 		{
-			"name": "nuxt3-learn-refs",
-			"path": "nuxt3-learn-refs"
-		},
-		{
-			"name": "static-learn-refs",
-			"path": "static-learn-refs"
-		},
-		{
-			"name": "server-learn-refs",
-			"path": "server-learn-refs"
-		},
-		{
-			"name": "nuxtjs",
+			"name": "js",
 			"path": "."
 		},
 		{
@@ -21,11 +9,12 @@
 			"path": "../vuejs"
 		},
 		{
-			"name": "v-gosti-na-more.ru",
-			"path": "../../private/v-gosti-na-more.ru"
+			"name": "nuxtjs",
+			"path": "../nuxtjs"
 		},
 		{
-			"path": "../js"
+			"name": "v-gosti-na-more.ru",
+			"path": "../../private/v-gosti-na-more.ru"
 		}
 	],
 	"settings": {
